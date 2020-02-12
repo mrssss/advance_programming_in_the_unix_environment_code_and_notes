@@ -1,0 +1,35 @@
+{
+    "title": "UNIX环境高级编程笔记",
+    "author": "Qijun Niu",
+    "language": "zh-hans",
+    "root": ".",
+    "plugins": [
+        "github"
+    ],
+    "pluginsConfig": {
+        "github": {
+          "url": "https://github.com/mrssss/advance_programming_in_the_unix_environment_code_and_notes"
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": ["qq"]
+        }
+    }
+
+}
